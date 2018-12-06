@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    flex: 100%;
+    height: 100vh;
+    background: white;
+}
+.first{
+    display: flex;
+    flex: 10%;
+    height: 100vh;
+    background: white;
+margin: 6px;
+flex-direction: column;
+}
+.second{
+    display: flex;
+    flex: 10%;
+    height: 100vh;
+    background: white;
+    margin: 6px;
+    flex-direction: column;
+
+
+}
+.third{
+    display: flex;
+    flex: 65%;
+    height: 100vh;
+    background: lightblue;
+    margin: 6px;
+flex-wrap: wrap;
+}
+.f1{
+    display: flex;
+    flex: 1;
+    height: 40vh;
+    background: aqua;
+    margin: 4px;
+
+}
+.f2{
+    display: flex;
+    flex: 1;
+    height: 40vh;
+    background: aqua;
+    margin: 4px;
+
+}
+.s1{
+    display: flex;
+    flex: 3;
+    height: 25vh;
+    background: aqua;
+    margin: 4px;
+
+}
+.s2{
+    display: flex;
+    flex: 3;
+    height: 25vh;
+    background: aqua;
+    margin: 4px;
+
+}
+.s3{
+    display: flex;
+    flex: 1;
+    height: 10vh;
+    background: aqua;
+    margin: 4px;
+
+}
+/* third  */
+.t1{
+    background: white;
+    width: 33%;
+    height: 100vh;
+
+}
+.t11 {
+    display: flex;
+
+    background: aqua;
+    flex: 3;
+    height: 73vh;
+}
+.t12{
+    display: flex;
+    background: aqua;
+    flex: 3;
+    height: 25vh;
+    margin-top: 9px;
+} 
+
+.t2{
+    background: white;
+    width: 33%;
+    height: 100vh;
+}
+.t21{
+    display: flex;
+    background: aqua;
+    flex: 3;
+    height: 25vh;
+    margin-left: 15px;
+
+} 
+
+.t22{
+    display: flex;
+    background: aqua;
+    flex: 3;
+    height: 45vh;
+    margin-top: 15px;
+    margin-left: 15px;
+} 
+
+.t23{
+    display: flex;
+    background: aqua;
+    flex: 3;
+    height: 25vh;
+    margin-top: 10px;
+} 
+
+.t3{
+    background: white;
+    width: 33%;
+    height: 100vh;
+
+}
+.t31{
+    display: flex;
+    background: aqua;
+    flex: 3;
+    height: 25vh;
+}
+.t32{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+
+    background: aqua;
+    flex: 3;
+    height: 72vh;
+}
